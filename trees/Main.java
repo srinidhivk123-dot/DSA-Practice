@@ -11,5 +11,11 @@ public class Main {
         System.out.print("Inverted: ");
         TreeNode.print(inverted);     
         
+        // Same Tree
+        TreeNode a = TreeNode.build(1, 2, 3);
+        TreeNode b = TreeNode.build(1, 2, 3);
+        TreeNode c = TreeNode.build(1, 2, 4);
+        System.out.println("Same (a, b): " + new SameTree().isSameTree(a, b)); // true
+        System.out.println("Same (a, c): " + new SameTree().isSameTree(a, c)); // false
     }
 }
