@@ -17,5 +17,12 @@ public class Main {
         TreeNode c = TreeNode.build(1, 2, 4);
         System.out.println("Same (a, b): " + new SameTree().isSameTree(a, b)); // true
         System.out.println("Same (a, c): " + new SameTree().isSameTree(a, c)); // false
+
+        // Subtree of Another Tree
+        TreeNode big1 = TreeNode.build(3, 4, 5, 1, 2);
+        TreeNode big2 = TreeNode.build(3, 4, 5, 1, 2, null, null, 0);
+        TreeNode small = TreeNode.build(4, 1, 2);
+        System.out.println("Subtree (big1): " + new SubtreeOfAnotherTree().isSubtree(big1, small)); // true
+        System.out.println("Subtree (big2): " + new SubtreeOfAnotherTree().isSubtree(big2, small)); // false
     }
 }
