@@ -24,5 +24,9 @@ public class Main {
         TreeNode small = TreeNode.build(4, 1, 2);
         System.out.println("Subtree (big1): " + new SubtreeOfAnotherTree().isSubtree(big1, small)); // true
         System.out.println("Subtree (big2): " + new SubtreeOfAnotherTree().isSubtree(big2, small)); // false
+
+        // Level Order Traversal
+        TreeNode lo = TreeNode.build(3, 9, 20, null, null, 15, 7);
+        System.out.println("Level order: " + new LevelOrderTraversal().levelOrder(lo));
     }
 }
