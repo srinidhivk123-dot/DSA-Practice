@@ -28,5 +28,13 @@ public class Main {
         // Level Order Traversal
         TreeNode lo = TreeNode.build(3, 9, 20, null, null, 15, 7);
         System.out.println("Level order: " + new LevelOrderTraversal().levelOrder(lo));
+
+        // Serialize and Deserialize
+        TreeNode sd = TreeNode.build(1, 2, 3, null, null, 4, 5);
+        SerializeDeserializeTree codec = new SerializeDeserializeTree();
+        String s = codec.serialize(sd);
+        System.out.println("Serialized: " + s);
+        System.out.print("Deserialized: ");
+        TreeNode.print(codec.deserialize(s));
     }
 }
