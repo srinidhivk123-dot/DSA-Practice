@@ -36,5 +36,9 @@ public class Main {
         System.out.println("Serialized: " + s);
         System.out.print("Deserialized: ");
         TreeNode.print(codec.deserialize(s));
+
+        // Maximum Depth
+        TreeNode md = TreeNode.build(3, 9, 20, null, null, 15, 7);
+        System.out.println("Max depth: " + new MaxDepth().maxDepth(md));
     }
 }
