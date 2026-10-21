@@ -48,5 +48,13 @@ public class Main {
         System.out.println("Max path sum (ps1): " + new MaxPathSum().maxPathSum(ps1));
         System.out.println("Max path sum (ps2): " + new MaxPathSum().maxPathSum(ps2));
         System.out.println("Max path sum (ps3): " + new MaxPathSum().maxPathSum(ps3));
+
+        // Validate BST
+        TreeNode v1 = TreeNode.build(2, 1, 3);
+        TreeNode v2 = TreeNode.build(5, 1, 4, null, null, 3, 6);
+        TreeNode v3 = TreeNode.build(2147483647);
+        System.out.println("Valid BST (v1): " + new ValidateBST().isValidBST(v1));
+        System.out.println("Valid BST (v2): " + new ValidateBST().isValidBST(v2));
+        System.out.println("Valid BST (v3): " + new ValidateBST().isValidBST(v3));
     }
 }
