@@ -40,5 +40,13 @@ public class Main {
         // Maximum Depth
         TreeNode md = TreeNode.build(3, 9, 20, null, null, 15, 7);
         System.out.println("Max depth: " + new MaxDepth().maxDepth(md));
+
+        // Maximum Path Sum
+        TreeNode ps1 = TreeNode.build(1, 2, 3);
+        TreeNode ps2 = TreeNode.build(-10, 9, 20, null, null, 15, 7);
+        TreeNode ps3 = TreeNode.build(-3);
+        System.out.println("Max path sum (ps1): " + new MaxPathSum().maxPathSum(ps1));
+        System.out.println("Max path sum (ps2): " + new MaxPathSum().maxPathSum(ps2));
+        System.out.println("Max path sum (ps3): " + new MaxPathSum().maxPathSum(ps3));
     }
 }
