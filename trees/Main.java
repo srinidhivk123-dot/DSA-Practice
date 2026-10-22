@@ -62,5 +62,19 @@ public class Main {
         TreeNode k2 = TreeNode.build(5, 3, 6, 2, 4, null, null, 1);
         System.out.println("Kth smallest (k1, k=1): " + new KthSmallestBST().kthSmallest(k1, 1));
         System.out.println("Kth smallest (k2, k=3): " + new KthSmallestBST().kthSmallest(k2, 3));
+
+        static TreeNode find(TreeNode root, int val) {
+        while (root != null) {
+            if (val == root.val) return root;
+            root = val < root.val ? root.left : root.right;
+        }
+        return null;
+        }
+        // Lowest Common Ancestor of BST
+        TreeNode lc = TreeNode.build(6, 2, 8, 0, 4, 7, 9, null, null, 3, 5);
+        LowestCommonAncestorBST lca = new LowestCommonAncestorBST();
+        System.out.println("LCA of 2 and 8: " + lca.lowestCommonAncestor(lc, find(lc, 2), find(lc, 8)).val);
+        System.out.println("LCA of 2 and 4: " + lca.lowestCommonAncestor(lc, find(lc, 2), find(lc, 4)).val);
+        System.out.println("LCA of 3 and 5: " + lca.lowestCommonAncestor(lc, find(lc, 3), find(lc, 5)).val);
     }
 }
