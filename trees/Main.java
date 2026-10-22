@@ -56,5 +56,11 @@ public class Main {
         System.out.println("Valid BST (v1): " + new ValidateBST().isValidBST(v1));
         System.out.println("Valid BST (v2): " + new ValidateBST().isValidBST(v2));
         System.out.println("Valid BST (v3): " + new ValidateBST().isValidBST(v3));
+
+        // Kth Smallest in BST
+        TreeNode k1 = TreeNode.build(3, 1, 4, null, 2);
+        TreeNode k2 = TreeNode.build(5, 3, 6, 2, 4, null, null, 1);
+        System.out.println("Kth smallest (k1, k=1): " + new KthSmallestBST().kthSmallest(k1, 1));
+        System.out.println("Kth smallest (k2, k=3): " + new KthSmallestBST().kthSmallest(k2, 3));
     }
 }
