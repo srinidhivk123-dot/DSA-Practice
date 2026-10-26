@@ -76,5 +76,20 @@ public class Main {
         System.out.println("LCA of 2 and 8: " + lca.lowestCommonAncestor(lc, find(lc, 2), find(lc, 8)).val);
         System.out.println("LCA of 2 and 4: " + lca.lowestCommonAncestor(lc, find(lc, 2), find(lc, 4)).val);
         System.out.println("LCA of 3 and 5: " + lca.lowestCommonAncestor(lc, find(lc, 3), find(lc, 5)).val);
+
+        public class Main {
+
+    static TreeNode find(TreeNode root, int val) {
+        while (root != null) {
+            if (val == root.val) return root;
+            root = val < root.val ? root.left : root.right;
+        }
+        return null;
+    }
+
+    public static void main(String[] args) {
+        // all your tests here, including the LCA lines
+    }
+}
     }
 }
