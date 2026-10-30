@@ -21,4 +21,16 @@ Solve at least one problem every day and revisit old problems to improve them.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
