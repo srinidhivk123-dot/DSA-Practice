@@ -10,3 +10,15 @@ Folder: [`trees/`](./trees)
 ## Goal
 
 Solve at least one problem every day and revisit old problems to improve them.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+<!---LeetCode Topics End-->
