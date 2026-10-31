@@ -29,6 +29,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | [0001-two-sum](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0054-spiral-matrix](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +44,8 @@ Solve at least one problem every day and revisit old problems to improve them.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
