@@ -26,11 +26,13 @@ Solve at least one problem every day and revisit old problems to improve them.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0054-spiral-matrix](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
