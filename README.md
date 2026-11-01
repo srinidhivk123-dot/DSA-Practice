@@ -32,6 +32,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | [0073-set-matrix-zeroes](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Hash Table
@@ -67,4 +68,8 @@ Solve at least one problem every day and revisit old problems to improve them.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
