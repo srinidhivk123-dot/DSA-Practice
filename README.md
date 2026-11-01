@@ -31,6 +31,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | [0054-spiral-matrix](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Hash Table
@@ -53,6 +54,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
