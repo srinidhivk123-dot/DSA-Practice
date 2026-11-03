@@ -70,6 +70,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0191-number-of-1-bits](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0191-number-of-1-bits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,5 +91,6 @@ Solve at least one problem every day and revisit old problems to improve them.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0371-sum-of-two-integers/) | Medium |
 <!---LeetCode Topics End-->
