@@ -37,12 +37,14 @@ Solve at least one problem every day and revisit old problems to improve them.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +65,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +80,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0268-missing-number](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,11 +92,13 @@ Solve at least one problem every day and revisit old problems to improve them.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0191-number-of-1-bits/) | Easy |
+| [0268-missing-number](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0371-sum-of-two-integers/) | Medium |
 <!---LeetCode Topics End-->
