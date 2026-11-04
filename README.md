@@ -74,6 +74,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0190-reverse-bits](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0191-number-of-1-bits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0338-counting-bits/) | Easy |
