@@ -38,6 +38,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | [0217-contains-duplicate](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0268-missing-number/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | [0053-maximum-subarray](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0338-counting-bits/) | Easy |
 ## Sorting
@@ -84,6 +86,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | [0033-search-in-rotated-sorted-array](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0268-missing-number/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,4 +120,8 @@ Solve at least one problem every day and revisit old problems to improve them.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0322-coin-change/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
