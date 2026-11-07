@@ -65,6 +65,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | [0300-longest-increasing-subsequence](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0338-counting-bits/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +125,12 @@ Solve at least one problem every day and revisit old problems to improve them.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
