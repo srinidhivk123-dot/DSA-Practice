@@ -33,6 +33,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | [0054-spiral-matrix](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0139-word-break](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -45,6 +46,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0139-word-break](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [0217-contains-duplicate](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 ## Matrix
@@ -61,6 +63,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0139-word-break](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0322-coin-change/) | Medium |
@@ -128,9 +131,22 @@ Solve at least one problem every day and revisit old problems to improve them.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
