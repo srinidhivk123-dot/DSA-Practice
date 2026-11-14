@@ -65,6 +65,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0091-decode-ways](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -136,6 +137,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0091-decode-ways](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Longest Common Subsequence
