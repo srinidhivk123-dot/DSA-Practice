@@ -65,6 +65,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0062-unique-paths/) | Medium |
 | [0091-decode-ways](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0139-word-break/) | Medium |
@@ -108,6 +109,7 @@ Solve at least one problem every day and revisit old problems to improve them.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0062-unique-paths/) | Medium |
 | [0268-missing-number](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Bit Manipulation
@@ -160,4 +162,8 @@ Solve at least one problem every day and revisit old problems to improve them.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/srinidhivk123-dot/DSA-Practice/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
